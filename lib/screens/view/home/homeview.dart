@@ -66,7 +66,6 @@ class _HomeViewState extends State<HomeView> with TickerProviderStateMixin {
     });
 
     animationController.addListener(() {
-      // debugPrint('MARIO CANTROLLER >> ${animationController.value.toString()}');
       setState(() {});
     });
 

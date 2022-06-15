@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bahtiyerovich.animation">
    <application
-        android:label="animation"
+        android:label="Super Mario"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
